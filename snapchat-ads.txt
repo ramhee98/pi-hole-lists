@@ -4,7 +4,6 @@ app-analytics-v2.snapchat.com
 snapchat-proxy.appspot.com
 gtq6.sct.sc-prod.net
 us-east1-aws.api.snapchat.com
-gcp.api.snapchat.com
 snapads.com
 (\.|^)snapads\.com$
 adsapi.snapchat.com
